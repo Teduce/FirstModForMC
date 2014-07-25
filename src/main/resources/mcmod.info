@@ -1,0 +1,10 @@
+[
+{
+  "modid":"FirstModForMC",
+  "name":"First Mod For MC",
+  "description":"This is my first mod for minecraft. I am learning how to make mods",
+  "version":"1.0",
+  "mcversion":"1.7.10",
+  "authorList":["Teduce"]
+}
+]
